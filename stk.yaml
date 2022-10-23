@@ -1,0 +1,7 @@
+applied_templates:
+- inputs:
+    project_name: invoice_processing
+  template_data_path: pdf-ocr-stack/pdf-ocr-stack-template
+global_computed_inputs: {}
+global_inputs: {}
+stack_type: app
